@@ -1,4 +1,4 @@
 import { defineChain } from "thirdweb";
-// import { cronos } from "thirdweb/chains";
+import { Cronos } from "thirdweb/chains";
 
-export const chain = defineChain( "cronos" );
+export const chain = defineChain( "Cronos" );
