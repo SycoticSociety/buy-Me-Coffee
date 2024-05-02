@@ -1,4 +1,4 @@
 import { defineChain } from "thirdweb";
 // import { Cronos } from "thirdweb/chains";
 
-export const chain = defineChain( "<25>" );
+export const chain = defineChain( "25" );
